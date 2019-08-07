@@ -90,11 +90,11 @@ master | 7.x -> master
 
 1. 下载或编译
 
-    * 方法 1 - 下载预编译的包: <https://github.com/medcl/elasticsearch-analysis-ik/releases>  
+    - 方法 1 - 下载预编译的包: <https://github.com/medcl/elasticsearch-analysis-ik/releases>  
         新建插件目录 `cd your-es-root/plugins/ && mkdir ik`  
         解压插件到该目录 `your-es-root/plugins/ik`
 
-    * 方法 2 - 使用 `elasticsearch-plugin` 安装（从 v5.5.1 版本开始支持）:
+    - 方法 2 - 使用 `elasticsearch-plugin` 安装（从 v5.5.1 版本开始支持）:
         ```shell
         ./bin/elasticsearch-plugin install https://github.com/medcl/elasticsearch-analysis-ik/releases/download/v6.3.0/elasticsearch-analysis-ik-6.3.0.zip
         ```
