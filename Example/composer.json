@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/console": "^4.3",
+        "elasticsearch/elasticsearch": "^6.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Command\\": "command"
+        }
+    }
+}

@@ -18,7 +18,7 @@ Kibana 可谓 Elastic Stack 的窗户。探索数据并管理堆栈。
 
 - Elasticsearch
  - [x] Elasticsearch 是什么？
- - [x] Elasticsearch VS Sphinx
+ - [x] Elasticsearch VS Sphinx（见附件）
  - [x] Elasticsearch 安装
  - [x] Elasticsearch 使用
  - [x] Elasticsearch 常见问题
